@@ -94,4 +94,4 @@ Covariance: Extremely low
 
 **Sharpe Ratio of my Portfolio**: $\text{Sharpe = sum(return)/sum(risk)} = 0.85092/0.082097 = 10.3648$
 
-It seems like my Sharpe Ratio is very off, and I am not sure why. However, based on these statistics, the assets I have chosen have a very high geometric annual return over the past 20 years, combined with very low volatilities and extremely low covariances as well. I believe that according to the model I have created, I have succeeded at creating an optimized investment portfolio.
+It seems like my Sharpe Ratio is off. However, based on these statistics, the assets I have chosen have a very high geometric annual return over the past 20 years, combined with very low volatilities and extremely low covariances as well. I believe that according to the model I have created, I have succeeded at creating an optimized investment portfolio.
