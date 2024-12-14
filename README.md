@@ -39,7 +39,7 @@ Consumer staple stocks like Procter & Gamble maintain stability during economic 
 
 Financial stocks provide stable returns and a broad exposure to financial markets.
 
-**Theory:**
+
 
 By selecting these five assets, I have applied the Modern Portfolio Theory by implementing fundamental investment strategies such as diversification and risk minimization. Although I can only go so far with these strategies, so I will now use `yfinance` to pull the the necessary data for each stock ticker from Yahoo Finance's public APIs, and then use optimization/data cleaning tools such as `NumPy` and `Pandas` to further optimize my portfolio. I will use `Scipy` to optimize the weights of each asset in my portfolio, and determine their covariance. Lastly, using `Matplotlib` I will visualize an Efficient Frontier, which is essentially a model data that an investor can use to construct a portfolio based on their risk tolerance.
 
