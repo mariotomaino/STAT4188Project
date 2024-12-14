@@ -12,8 +12,8 @@ MPT suggests that the top stocks to include in a potfolio are not selected indep
 
 We want to focus on the following characteristics:
 1. ***Expected returns***: We want stocks with high potential returns.
-2. **Volatility (Risk)**: We want stocks with manageable levels of risk.
-3. **Correlation**: We want stocks that are not highly correlated with each other.
+2. ***Volatility (Risk)***: We want stocks with manageable levels of risk.
+3. ***Correlation***: We want stocks that are not highly correlated with each other.
 
 Therefore, the assets that I will be analyzing are stocks from five different sectors that often perform well in MPT-based portfolios.
 
@@ -39,4 +39,4 @@ Consumer staple stocks like Procter & Gamble maintain stability during economic 
 
 Financial stocks provide stable returns and a broad exposure to financial markets.
 
-By selecting these five assets for my investment portfolio optimization project, I have applied MPT by implementing fundamental investment strategies such as diversification and risk minimization. I can only go so far with these strategies however, so I will now use optimization/data cleaning tools such as NumPy and Pandas to further optimize my portfolio, as well as perform further exploratory data analysis by visualizing trends and relationships between these assets using Matplotlib and Seaborn. I will then use Scikit-learn to train a predictive machine learning model for stock price movements and returns.
+By selecting these five assets for my investment portfolio optimization project, I have applied MPT by implementing fundamental investment strategies such as diversification and risk minimization. I can only go so far with these strategies however, so I will now use optimization/data cleaning tools such as `NumPy` and `Pandas` to further optimize my portfolio, as well as perform further exploratory data analysis by visualizing trends and relationships between these assets using `Matplotlib` and `Seaborn`. I will then use `Scikit-learn` to train a predictive machine learning model for stock price movements and returns.
