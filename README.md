@@ -1,4 +1,4 @@
-# Stock Portfolio Optimization
+# Investment Portfolio Optimization
 
 ## Objective:
 
