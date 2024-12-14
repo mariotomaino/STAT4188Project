@@ -1,4 +1,4 @@
-# STAT 4188 Final Project: Stock Portfolio Optimization
+# Stock Portfolio Optimization
 
 ## Objective:
 
