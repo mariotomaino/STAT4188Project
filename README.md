@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The objective of my final project is to optimize an investment portfolio. My goal is to maximize returns while minimizing risk by optimizing a portfolio of assets.
+The objective of this project is to optimize an investment portfolio. My goal is to maximize returns while minimizing risk by optimizing a portfolio of assets.
 
 Throughout this project, I will build an optimized investment portfolio of five stocks by analyzing historical asset performance as well as recent market trends and applying Modern Portfolio Theory.
 
