@@ -55,34 +55,44 @@ All of these statistics are significant because I have also created an Efficient
 **AAPL (Apple)**:
 
 Geometric Annual Return: 0.382923
+
 Volatility: 0.020290
+
 Covariance: Extremely low
 
 **JNJ (Johnson & Johnson)**:
 
 Geometric Annual Return: 0.087720
+
 Volatility: 0.010772
+
 Covariance: Extremely low
  
 **XOM (Exxon Mobil)**:
 
 Geometric Annual Return: 0.106372
+
 Volatility: 0.016756
+
 Covariance: Extremely low
 
 **PG (Procter & Gamble)**:
 
 Geometric Annual Return: 0.104030
+
 Volatility: 0.011370
+
 Covariance: Extremely low
 
 **JPM (JPMorgan Chase)**:
 
 Geometric Annual Return: 0.169875
+
 Volatility: 0.022909
+
 Covariance: Extremely low
 
-**Sharpe Ratio of my Portfolio**: Sharpe = sum(return)/sum(risk) = 0.85092/0.082097 = 10.3648
+**Sharpe Ratio of my Portfolio**: $\text{Sharpe = sum(return)/sum(risk)} = 0.85092/0.082097 = 10.3648$
 
 It seems like my Sharpe Ratio is very off, and I am not sure why. However, based on these statistics, the assets I have chosen have a very high geometric annual return over the past 20 years, combined with very low volatilities and extremely low covariances as well. I believe that according to the model I have created, I have succeeded at creating an optimized investment portfolio.
 
