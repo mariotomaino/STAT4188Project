@@ -19,16 +19,20 @@ Therefore, the assets that I will be analyzing are stocks from five different se
 
 The assets that I will be analyzing are as follows:
 
-- *Technology*: **AAPL (Apple)** 
+- *Technology:* **AAPL (Apple)** 
+
 Apple has strong fundamentals and consistent returns, and is often used as a growth asset.
 
 - **JNJ (Johnson & Johnson)** *Healthcare*
+
 Johnson & Johnson is a defensive stock with steady cash flows, and has low correlation due to it being in a cyclical industry.
 
 - **XOM (Exxon Mobil)** *Energy*
+
 Exxon Mobil is a great asset for hedging, or aiming to  limit losses or inflation risk due to oil price volatility.
 
-- **PG (Procter & Gamble)** *Consumer Staple*
+- *Consumer Staple*: **PG (Procter & Gamble)**
+
 Consumer staple stocks like Procter & Gamble maintain stability during economic downturns and lower volatility of the overall portfolio due to the fact that they manufacture every day items that consumers will need no matter what is happening in the world or the economy.
 
 By selecting these 5 assets for my investment portfolio optimization project, I have applied MPT by implementing fundamental investment strategies such as diversification and risk minimization. I can only go so far with these strategies however, so I will now use optimization/data cleaning tools such as NumPy and Pandas to further optimize my portfolio, as well as perform further exploratory data analysis by visualizing trends and relationships between these assets using Matplotlib and Seaborn. I will then use Scikit-learn to train a predictive machine learning model for stock price movements and returns.
