@@ -19,7 +19,7 @@ Therefore, the assets that I will be analyzing are stocks from five different se
 
 The assets that I will be analyzing are as follows:
 
-- **AAPL (Apple)** *Technology*
+- *Technology*: **AAPL (Apple)** 
 Apple has strong fundamentals and consistent returns, and is often used as a growth asset.
 
 - **JNJ (Johnson & Johnson)** *Healthcare*
