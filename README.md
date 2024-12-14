@@ -8,7 +8,7 @@ Throughout this project, I will build an optimized investment portfolio of five 
 
 Modern Portfolio Theory (MPT) is a framework for constructing an investment portfolio that maximizes returns for a given level of risk and minimizes risk for a given level of expected return. It was introduced by economist **Harry Markowitz** in 1952 in his paper *Portfolio Selection* and later earned him a Nobel Prize in Economics.
 
-MPT suggests that the top stocks to include in a potfolio are not selected independently but based on their effectiveness in maximizing the overall portfolio's risk-adjusted return.
+MPT suggests that the top stocks to include in a portfolio are not selected independently but based on their effectiveness in maximizing the overall portfolio's risk-adjusted return.
 
 We want to focus on the following characteristics:
 1. ***Expected returns***: We want stocks with high potential returns.
