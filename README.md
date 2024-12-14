@@ -50,7 +50,7 @@ After optimizing the weights of each asset, we are able to verify the covariance
 
 All of these statistics are significant because I have also created an Efficient Frontier that is simulated from 5000 random portfolios. This random frontier can be used to compare a potential portfolio to an extremely large set of potfolios. If an investor knows the Sharpe ratio of their investment portfolio, they can use this visual to easily make an informed investment decision.
 
-## Results of Optomized Stock Portfolio:
+## Results of Optimized Stock Portfolio:
 
 ### **AAPL (Apple)**:
 
