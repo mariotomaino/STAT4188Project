@@ -19,23 +19,23 @@ Therefore, the assets that I will be analyzing are stocks from five different se
 
 The assets that I will be analyzing are as follows:
 
-- *Technology:* **AAPL (Apple)** 
+### - *Technology:* **AAPL (Apple)** 
 
 Apple has strong fundamentals and consistent returns, and is often used as a growth asset.
 
-- *Healthcare:* **JNJ (Johnson & Johnson)**
+### - *Healthcare:* **JNJ (Johnson & Johnson)**
 
 Johnson & Johnson is a defensive stock with steady cash flows, and has low correlation due to it being in a cyclical industry.
 
-- *Energy:* **XOM (Exxon Mobil)**
+### - *Energy:* **XOM (Exxon Mobil)**
 
 Exxon Mobil is a great asset for hedging, or aiming to  limit losses or inflation risk due to oil price volatility.
 
-- *Consumer Staple:* **PG (Procter & Gamble)**
+### - *Consumer Staple:* **PG (Procter & Gamble)**
 
 Consumer staple stocks like Procter & Gamble maintain stability during economic downturns and lower volatility of the overall portfolio due to the fact that they manufacture every day items that consumers will need no matter what is happening in the world or the economy.
 
-- *Financials:* **JPM (JPMorgan Chase)**
+### - *Financials:* **JPM (JPMorgan Chase)**
 
 Financial stocks provide stable returns and a broad exposure to financial markets.
 
@@ -50,9 +50,9 @@ After optimizing the weights of each asset, we are able to verify the covariance
 
 All of these statistics are significant because I have also created an Efficient Frontier that is simulated from 5000 random portfolios. This random frontier can be used to compare a potential portfolio to an extremely large set of potfolios. If an investor knows the Sharpe ratio of their investment portfolio, they can use this visual to easily make an informed investment decision.
 
-### The Results of my chosen investment portfolio are as follows:
+## Results of Optomized Stock Portfolio:
 
-**AAPL (Apple)**:
+### **AAPL (Apple)**:
 
 Geometric Annual Return: 0.382923
 
@@ -60,7 +60,7 @@ Volatility: 0.020290
 
 Covariance: Extremely low
 
-**JNJ (Johnson & Johnson)**:
+### **JNJ (Johnson & Johnson)**:
 
 Geometric Annual Return: 0.087720
 
@@ -68,7 +68,7 @@ Volatility: 0.010772
 
 Covariance: Extremely low
  
-**XOM (Exxon Mobil)**:
+### **XOM (Exxon Mobil)**:
 
 Geometric Annual Return: 0.106372
 
@@ -76,7 +76,7 @@ Volatility: 0.016756
 
 Covariance: Extremely low
 
-**PG (Procter & Gamble)**:
+### **PG (Procter & Gamble)**:
 
 Geometric Annual Return: 0.104030
 
@@ -84,7 +84,7 @@ Volatility: 0.011370
 
 Covariance: Extremely low
 
-**JPM (JPMorgan Chase)**:
+### **JPM (JPMorgan Chase)**:
 
 Geometric Annual Return: 0.169875
 
